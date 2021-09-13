@@ -337,7 +337,7 @@ textarea {
 
 /************* Media Queries *******************/
 
-@media(min-width: 50em)  {
+@media(min-width: 55em)  {
 
     .section-title {
         text-align: left;
